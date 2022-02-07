@@ -20,6 +20,6 @@ function checkChanged(){
   || document.getElementById("cb5").checked == false || document.getElementById("cb6").checked == false
   || document.getElementById("cb7").checked == false || document.getElementById("cb8").checked == false
   || document.getElementById("cb9").checked == false || document.getElementById("cb10").checked == false) {
-    alert("Are you sure you want to do that? If so, click OK.");
+    alert("Are you sure you want to do that?");
   }
 }

@@ -11,7 +11,6 @@
 
 body{
     min-height: 100vh;
-    /* background: linear-gradient(#084bf4,#06f5cd); */
     /*background: linear-gradient(#5cd0ff,#e5a8e3);*/
     background-image: url(images/bg-2.png);
     background-repeat: no-repeat;
@@ -20,17 +19,8 @@ body{
 }
 
 section{
-    /* position: relative;
-    width: 100%;
-    height: 100vh; */
     padding: 20px 100px;
     font-family: 'Montserrat', sans-serif;
-
-    /* position: relative; */
-}
-
-img{
-    border-radius: 10px;
 }
 
 .everythang{
@@ -41,12 +31,15 @@ img{
 }
 
 .text-1{
-    /* font-size: 95px; */
-    font-size: clamp(40px, 8vw, 95px);
-    
-    /* font-size: clamp(25px, 7vw, 95px); */
+    font-size: 70px;
     text-align: center;
     font-weight: 600;
+}
+
+/*------IMAGES------*/
+
+img{
+    border-radius: 10px;
 }
 
 .img-wrapper{
@@ -59,6 +52,8 @@ img{
     flex-wrap: wrap;
     flex-direction: column;
 }
+
+/*------TERMS AND CONDITIONS BOX------*/
 
 .card{
     position: relative;
@@ -94,14 +89,17 @@ img{
 .card .terms-text{
     margin: 20px;
     padding: 15px;
-    font-size: 14px;
+    font-size: 12px;
     
     width: auto;
     height: 300px;
     
     border: 1px solid #ccc;
+    background: rgba(255, 255, 255, 0.4);
     overflow: auto;
 }
+
+/*------I AGREE THINGY------*/
 
 .consent{
     display: block;
@@ -116,6 +114,8 @@ input {
     width: 32px;
     vertical-align: middle;
 }
+
+/*------CONTINUE BUTTON------*/
 
 .button{
     float: right;
@@ -161,13 +161,4 @@ input {
   .continue-btn:hover span:after {
     opacity: 1;
     right: 0;
-  }
-
-  /*--------DARK PATTERN STUFF--------------*/
-  .suspicious{
-    display: block;
-    padding: 6px;
-    margin: 12px;
-    border: 3px solid #ddd;
-    background-color: #eee;
 }
