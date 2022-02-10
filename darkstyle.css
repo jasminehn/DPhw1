@@ -117,7 +117,7 @@ input {
 .card .terms-text{
     margin: 20px;
     padding: 15px;
-    font-size: 12px;
+    font-size: 10px;
     
     width: auto;
     height: 300px;
@@ -142,7 +142,7 @@ input {
 
 .continue-btn {
     font-size: 18px;
-    padding: 20px;
+    padding: 30px;
     width: 150px;
     margin: 5px;
     
