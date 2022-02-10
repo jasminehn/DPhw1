@@ -23,3 +23,7 @@ function checkChanged(){
     alert("Are you sure you want to do that?");
   }
 }
+
+function thx4soul(){
+  alert("Thank you for your generous payment of $203.65 :)")
+}
