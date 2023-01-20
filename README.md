@@ -1,7 +1,7 @@
 # Dark Patterns HW1
 
 ### 💻 Course Description 
-Dark Patterns are psychological tricks and techniques to encourage users to behave a certain way. The course focuses first on the psychological, philisophical, and business-practical aspects of dark patterns. This course is more about how and why these tricks work than how to implement them technically, but it will also cover how to create functioning UI that demonstrates various dark patterns and their alternatives. 
+Dark Patterns are psychological tricks and techniques to encourage users to behave a certain way. The course focuses first on the psychological, philosophical, and business-practical aspects of dark patterns. This course is more about how and why these tricks work than how to implement them technically, but it will also cover how to create functioning UI that demonstrates various dark patterns and their alternatives. 
 
 ### 📄 Assignment Overview
 You are a front-end developer at Company Co, and your job is to do what you’re told. Follow your instructions to generate two different front end experiences:
