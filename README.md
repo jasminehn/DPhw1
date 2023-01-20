@@ -8,7 +8,7 @@ You are a front-end developer at Company Co, and your job is to do what you’re
 - A dark version, utilizing as many of the dark patterns we learned about as possible to optimize the company’s goals.
 - A light version, meeting the company’s goals using the minimal amount of dark patterns
 
-Full description: 
+Full description: [Dark Patterns HW1](DarkPatternsHW1.pdf) (Yes, this was a real homework assignment.)
 
 
 ### Links
